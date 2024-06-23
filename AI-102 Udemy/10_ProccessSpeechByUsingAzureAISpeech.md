@@ -66,7 +66,39 @@ Clues on the shape of mouth. Useful for 2D/3D avatars!
 
 Intent is something the user wants to do.
 
+![alt text](image-178.png)
 
+![alt text](image-179.png)
+
+![alt text](image-180.png)
+
+![alt text](image-181.png)
+
+Two ways:
+
+- Pattern matching. Recognize certain words and trigger the intention. Recommended for first and simple uses.
+- Conversational Language Understanding (CLU). The user speech is transcribed and then the intention is extracted with the Language API.
+
+About CLU:
+
+![alt text](image-182.png)
+
+150+ examples needed.
 
 ## Implement keyword recognition
 
+![alt text](image-183.png)
+
+**Keyword recognition on-device!**
+
+![alt text](image-185.png)
+
+![alt text](image-186.png)
+
+Continuos audio on .NET:
+
+![alt text](image-187.png)
+
+![alt text](image-188.png)
+
+![alt text](image-189.png)
